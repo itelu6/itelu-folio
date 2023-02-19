@@ -2,12 +2,16 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: a growing collection of my projects.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [research, fun, reading, bud]
 horizontal: false
 ---
+
+Here I categorize my projects into four groups: "research", "fun", "reading", and "bug". "research" contains my main academic research projects; "fun" contains those projects that are not directly related to my main reserach projects'; "reading" contains subjects or books that I am reading now; "bud" means not well-defined or testing-the-water projects that might disappear or become the above two groups, depending on the progress of the project. 
+
+> 🏗️ I am still constructing the website, so I will add more...stay tuned
 
 <!-- pages/projects.md -->
 <div class="projects">

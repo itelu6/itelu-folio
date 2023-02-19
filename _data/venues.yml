@@ -4,3 +4,27 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Npj":
+  url: https://www.nature.com/npjcompumats/
+  color: "#C63935"
+
+"ACS":
+  url: "https://pubs.acs.org/"
+  color: "#F8CF56"
+
+"APS":
+  url: "https://journals.aps.org/"
+  color: "#255996"
+
+"SD":
+  url: "https://www.sciencedirect.com/"
+  color: "#DB6D2A"
+
+"NPort":
+  url: "Nature Portfolio"
+  color: "#010000"
+
+"arXiv":
+   url: "https://arxiv.org/"
+   color: "#A42C25"
